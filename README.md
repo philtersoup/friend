@@ -8,6 +8,12 @@ This is a very early version of my idea and is merely a proof of concept.
 
 This is monophonic at the moment in "Learn" mode, so play single notes, maybe across different octaves to get the best results. 
 
+# Installation
+
+1. For the non Github friendly crowd, click on "Clone Repo / Download as Zip" on the top. 
+2. Drag the "sj.Friend.amxd" file and put it in a new empty MIDI Track inside Ableton. 
+3. This is a MIDI EFFECT meaning that it only generates MIDI data and not audio, so you need to put in an Ableton Instrument / VST or route it out to your external MIDI gear. 
+
 
 # Things to do
 
